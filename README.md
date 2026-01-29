@@ -98,17 +98,3 @@ Contributions are welcome! This project was created as a fun demonstration of AI
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## License
-
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by Windows 95, the operating system that shaped modern computing
-- Built with ❤️ using Google Gemini AI
-- Icons and assets sourced from various retro computing resources
-
-## Disclaimer
-
-This is a fan-made project for educational and entertainment purposes. Windows 95 is a trademark of Microsoft Corporation.</content>
-<parameter name="filePath">/Users/manavaryasingh/Downloads/gemini-95/README.md
